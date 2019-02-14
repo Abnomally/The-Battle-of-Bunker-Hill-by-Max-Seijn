@@ -3,17 +3,11 @@
 
 The Battle of Bunker Hill took place on June 17th, 1775. It was a battle between Great Britain and the American colonists. It took place in the hills near Charlestown, Massachusetts, which is just across the bay from Boston. The battle was a victory for the British in terms of territory gained, but a bloody one. They lost over 1,000 men, more than double the number of American casualties. For the Americans, it was a major morale-boosting win. Even though they lost their position, it proved to them that the British were not, in fact, invincible and could be defeated.
 
-##### Table of Contents  
 [Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
  
-
 Table of contents
 
-###### RQ1/Timeline
+###### RQ1/Timeline     [rq1/timeline](#timeline)  
 
 ###### RQ2/Map and Geography
 
