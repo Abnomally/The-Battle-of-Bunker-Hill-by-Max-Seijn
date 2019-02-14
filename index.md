@@ -9,17 +9,17 @@ Table of contents
 
 ###### RQ1/Timeline     [RQ1/timeline](#timeline)  
 
-###### RQ2/Map and Geography [RQ2/Map and Geogrophy](#georaphy)
+###### RQ2/Map and Geography [RQ2/Map and Geogrophy](#geography)
 
-###### RQ3/Causes and Issues
+###### RQ3/Causes and Issues [RQ3/Causes and Issues](#causes/issues)
 
-###### RQ4/Personalities and Groups
+###### RQ4/Personalities and Groups [RQ4/Personalitys and Groups](#Personalities and Groups)
 
-###### RQ6/Issue of Territorial Expansion
+###### RQ6/Issue of Territorial Expansion [RQ6/Issue of Territorial Expansion](#The Issue of Territorial Expansion)
 
-###### RQ8/Constitutional Principles 
+###### RQ8/Constitutional Principles [RQ8/Constitutional Principles](#Constitutional Principals)
 
-###### RQ9/Legacy
+###### RQ9/Legacy [Legacy](#Legacy)
 
 ###### Timeline
 1.	The first event of the timeline would be British generals deciding to use the hills around Charlestown to gain full control over Boston harbor and a way to break out of the city. 
