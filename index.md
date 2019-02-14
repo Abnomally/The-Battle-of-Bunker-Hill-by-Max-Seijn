@@ -17,7 +17,7 @@ Table of contents
 
 ###### RQ6/Issue of Territorial Expansion     [RQ6/Issue of Territorial Expansion](#theissueofterritorialexpansion)
 
-###### RQ8/Constitutional Principles     [RQ8/Constitutional Principles](#constitutionalprincipals)
+###### RQ8/Constitutional Principles     [RQ8/Constitutional Principles](#constitutional)
 
 ###### RQ9/Legacy     [Legacy](#legacy)
 
