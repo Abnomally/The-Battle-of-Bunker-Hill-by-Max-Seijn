@@ -7,9 +7,9 @@ The Battle of Bunker Hill took place on June 17th, 1775. It was a battle between
  
 Table of contents
 
-###### RQ1/Timeline     [rq1/timeline](#timeline)  
+###### RQ1/Timeline     [RQ1/timeline](#timeline)  
 
-###### RQ2/Map and Geography
+###### RQ2/Map and Geography [RQ2/Map and Geogrophy](#georaphy)
 
 ###### RQ3/Causes and Issues
 
