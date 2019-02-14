@@ -13,11 +13,11 @@ Table of contents
 
 ###### RQ3/Causes and Issues [RQ3/Causes and Issues](#causes/issues)
 
-###### RQ4/Personalities and Groups      [RQ4/Personalitys and Groups](#personalities and groups)
+###### RQ4/Personalities and Groups      [RQ4/Personalitys and Groups](#personalitiesandgroups)
 
-###### RQ6/Issue of Territorial Expansion     [RQ6/Issue of Territorial Expansion](#the issue of territorial expansion)
+###### RQ6/Issue of Territorial Expansion     [RQ6/Issue of Territorial Expansion](#theissueofterritorialexpansion)
 
-###### RQ8/Constitutional Principles     [RQ8/Constitutional Principles](#constitutional principals)
+###### RQ8/Constitutional Principles     [RQ8/Constitutional Principles](#constitutionalprincipals)
 
 ###### RQ9/Legacy     [Legacy](#legacy)
 
