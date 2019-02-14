@@ -19,7 +19,7 @@ Table of contents
 
  [RQ8/Constitutional Principles](#rq8)
 
- [Legacy](#legacy)
+ [RQ9/Legacy](#legacy)
 
 ###### RQ1
 ###### Timeline
