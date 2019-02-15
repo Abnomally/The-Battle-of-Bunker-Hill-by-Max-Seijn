@@ -98,13 +98,3 @@ URL: https://en.wikipedia.org/wiki/Union_Jack Website Title: Wikipedia Article T
 
 
 
-
-
-
-
-
-
-
-
-
-![2 15 19 ela project timeline](https://user-images.githubusercontent.com/47544167/52831606-3942ea80-30a3-11e9-8441-1fcddb3bd966.png)
