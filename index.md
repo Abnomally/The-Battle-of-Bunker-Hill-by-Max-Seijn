@@ -34,11 +34,14 @@ Colonist forces arrived at Breed’s Hill and began quietly fortifying through n
 6.	Many British soldiers were killed in the initial attacks up Breed’s Hill, as the Americans had a superior position and cover. But, after two unsuccessful waves of British assaults, the colonists ran out of ammunition and were forced to retreat off the Charlestown Peninsula to American blockades in the Boston area. Most of the American casualties occurred during this retreat, as it was disordered and panicked, more of a rout than a retreat. The American forces basically ran away as the British fire volley after volley into the militiamen, who had no way to fight back or resist as they had no ammunition. 
 7.	The British took control of Breed’s Hill and Bunker Hill and brought cannons up the hills to retain control of the Boston Harbor as well as to shell American positions around Boston. 
 
+![2 15 19 ela project timeline](https://user-images.githubusercontent.com/47544167/52831606-3942ea80-30a3-11e9-8441-1fcddb3bd966.png)
+
+
 ##### RQ2
 ##### Geography
 The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. The geography was quite important because it is what caused the battle. If the hill had not been there, the battle probably would not have been fought and more likely if it has the British forces would have won with ease. This Map shows how the American defense was set up and how the British attacked and the general area around the battle. Charlestown had been burned before the battle so there were only ruins there 
 
-https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill#/media/File:Array_of_American_Forces_on_the_Field_at_the_Battle_of_Breeds_Hill.png
+![array_of_american_forces_on_the_field_at_the_battle_of_breeds_hill 1](https://user-images.githubusercontent.com/47544167/52831643-6394a800-30a3-11e9-9922-1720897d2d80.png)
 
  
 ##### RQ3
@@ -50,6 +53,8 @@ The reason the British wanted and needed Breed’s and Bunker Hills was to break
 ##### Personalities and Groups 
  The two main combatants would be the American colonists and the British Empire. Due to the battle being fought in Boston, these were the only two true forces. The British Empire attacked Bunker Hill (and Breed’s Hill) while the Americans defended it. Each side had their commanders and generals, but for the British, the most famous was General Thomas Gage. He was the one who formulated the plan to take the hills and then march out of Boston and break the siege. His plan may have worked if he had not so grossly underestimated the capabilities of the Americans and if he had been more careful about who he talked to about his plans. 
 On the American side, General Israel Putnam was the general who took control of Breed’s during the night and fortified it without the British noticing. He was a good commander, but due to the disarray of the American troops at that time, his orders were not always carried out. But a possibly more famous man, Colonel William Prescott, was the officer in control of the detachment of troops at Breed’s Hill. He his known for ordering his troops “Don’t fire until you see the whites of their eyes!” This means hold your fire until the British troops are almost on top of you, so you will kill more of them. This is the most famous quote associated with the battle.
+
+![11111](https://user-images.githubusercontent.com/47544167/52832031-df432480-30a4-11e9-8366-9ef4e93cd41f.png)
 
 ##### RQ6
 ##### The Issue of Territorial Expansion 
@@ -90,3 +95,16 @@ https://en.wikipedia.org/wiki/Betsy_Ross_flag Website: Wikipedia Article Title: 
 Date Published: January 04, 2019 Date Accessed: February 15, 2019
 
 URL: https://en.wikipedia.org/wiki/Union_Jack Website Title: Wikipedia Article Title Union Jack Date Published February 12, 2019 Date Accessed February 15, 2019
+
+
+
+
+
+
+
+
+
+
+
+
+![2 15 19 ela project timeline](https://user-images.githubusercontent.com/47544167/52831606-3942ea80-30a3-11e9-8441-1fcddb3bd966.png)
