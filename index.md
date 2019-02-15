@@ -44,6 +44,8 @@ The area the battle was fought in was on a hill. It was situated on a peninsula 
 
 ![array_of_american_forces_on_the_field_at_the_battle_of_breeds_hill 1](https://user-images.githubusercontent.com/47544167/52831643-6394a800-30a3-11e9-9922-1720897d2d80.png)
 
+ ![lexington_concord_siege_of_boston](https://user-images.githubusercontent.com/47544167/52832806-326aa680-30a8-11e9-852b-3193acf17903.jpg)
+.png)
  
 ##### RQ3
 ##### Causes/Issues
