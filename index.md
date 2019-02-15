@@ -40,7 +40,7 @@ Colonist forces arrived at Breed’s Hill and began quietly fortifying through n
 
 ##### RQ2
 ##### Geography
-The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. The geography was quite important because it is what caused the battle. If the hill had not been there, the battle probably would not have been fought and more likely if it has the British forces would have won with ease. This Map shows how the American defense was set up and how the British attacked and the general area around the battle. Charlestown had been burned before the battle so there were only ruins there 
+The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. The geography was quite important because it is what caused the battle. If the hill had not been there, the battle probably would not have been fought and more likely if it has the British forces would have won with ease. This Map shows how the American defense was set up and how the British attacked and the general area around the battle. Charlestown had been burned before the battle so there were only ruins there. 
 
 ![array_of_american_forces_on_the_field_at_the_battle_of_breeds_hill 1](https://user-images.githubusercontent.com/47544167/52831643-6394a800-30a3-11e9-9922-1720897d2d80.png)
 
@@ -51,6 +51,7 @@ The area the battle was fought in was on a hill. It was situated on a peninsula 
 ##### Causes/Issues
 The reason the British wanted and needed Breed’s and Bunker Hills was to break out of Boston and begin taking back territory surrounding Boston. At the time of the battle, Boston was locked down by 12,000 American militiamen, effectively besieging it, keeping the British contained. Because of this, the British needed a way to get out of the city and start retaking land from the colonists. But because of the colonist stranglehold on the only land access to Boston, the British had to find an external route into Massachusetts in order to break out of the pocket they were in. This caused them to turn to the Charlestown peninsula to break out of Boston and began advancing through the colonies. But when the Americans learned of this, they immediately recognized the impact the British could have on the battle if they were able to fire cannons at the colonist and therefore sent a detachment to gain and control the hill. The colonists also figured out that they could bring heavy artillery down from Fort Ticonderoga and begin shelling the British defenses from afar and begin driving out the British from Boston 
 
+Socal Reasons: The Battle of bunker hill was fought for control over control of boston. It was socally cuased by the resentment of the british forces in boston and the  
 
 ##### RQ4
 ##### Personalities and Groups 
