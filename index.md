@@ -72,11 +72,15 @@ Principle: a fundamental truth or proposition that serves as the foundation for 
 
 
 
-###### Works Cited
+#### Works Cited
 
 “Battle of Bunker Hill Facts & Summary.” American Battlefield Trust, 16 June 2018, www.battlefields.org/learn/revolutionary-war/battles/bunker-hill.
+
 “Battle of Bunker Hill.” Wikipedia, Wikimedia Foundation, 28 Nov. 2018, en.wikipedia.org/wiki/Battle_of_Bunker_Hill.
+
 BattleStack. “Battle Stack: The Battle of Bunker Hill Tactics.” YouTube, YouTube, 19 Feb. 2017, www.youtube.com/watch?v=k7ChSd_q4Og.
+
 Britannica, The Editors of Encyclopaedia. “Battle of Bunker Hill.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., 15 Jan. 2019, www.britannica.com/event/Battle-of-Bunker-Hill.
+
 Editors, History.com. “Battle of Bunker Hill.” History.com, A&E Television Networks, 9 Nov. 2009, www.history.com/topics/american-revolution/battle-of-bunker-hill.
 
