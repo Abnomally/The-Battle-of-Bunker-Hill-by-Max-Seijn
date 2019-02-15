@@ -35,7 +35,8 @@ The first event of the timeline would be British generals deciding to use the hi
     were killed during the retreat because it was less of an orderly retreat and more of a rout. When there is a rout, everyone just
     runs away and that let the British fire volley after volley into the Americans while they ran with little resistance because they 
     couldn’t shoot back. After this, the British take control over the hill and bring up cannons to set up on the hill to retain 
-    control of the harbor and for bombardment purposes.
+    control of the harbor and for bombardment purposes. ![2 15 19 ela project timeline](https://user-images.githubusercontent.com/47544167/52831606-3942ea80-30a3-11e9-8441-1fcddb3bd966.png)
+
 
 ###### Geography
 The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. 
