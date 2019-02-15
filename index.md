@@ -37,7 +37,8 @@ Colonist forces arrived at Breed’s Hill and began quietly fortifying through n
 ##### RQ2
 ##### Geography
 The area the battle was fought in was on a hill. It was situated on a peninsula near Boston and near the town of Charlestown. The geography was quite important because it is what caused the battle. If the hill had not been there, the battle probably would not have been fought and more likely if it has the British forces would have won with ease. This Map shows how the American defense was set up and how the British attacked and the general area around the battle. Charlestown had been burned before the battle so there were only ruins there 
-map:.https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill#/media/File:Array_of_American_Forces_on_the_Field_at_the_Battle_of_Breeds_Hill.png
+
+https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill#/media/File:Array_of_American_Forces_on_the_Field_at_the_Battle_of_Breeds_Hill.png
 
  
 ##### RQ3
