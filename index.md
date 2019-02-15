@@ -67,7 +67,9 @@ At the time of the battle, Boston was locked down by 12,000 militiamen, effectiv
     fortified it. He was a good commander, but due to the general disarray of the American troops at that time, his orders were often 
     ignored or not even received. But a possibly more famous man, William Prescott, was a colonel who was at the battle of bunker hill
     and was famous for yelling “Don’t fire until you see the whites of their eyes!” Which means fire when there almost right on top of
-    you. This line is very heavily associated with the battle.
+    you. This line is very heavily associated with the battle. 
+    ![11111](https://user-images.githubusercontent.com/47544167/52832031-df432480-30a4-11e9-8366-9ef4e93cd41f.png)
+
 
 ###### The issue of territorial expansion 
 The issue of territorial expansion drives this whole conflict. The Americans wanted to have control over the 13 colony’s
