@@ -86,3 +86,7 @@ Britannica, The Editors of Encyclopaedia. “Battle of Bunker Hill.” Encyclop�
 
 Editors, History.com. “Battle of Bunker Hill.” History.com, A&E Television Networks, 9 Nov. 2009, www.history.com/topics/american-revolution/battle-of-bunker-hill.
 
+https://en.wikipedia.org/wiki/Betsy_Ross_flag Website: Wikipedia Article Title: Betsy Ross flag
+Date Published: January 04, 2019 Date Accessed: February 15, 2019
+
+URL: https://en.wikipedia.org/wiki/Union_Jack Website Title: Wikipedia Article Title Union Jack Date Published February 12, 2019 Date Accessed February 15, 2019
