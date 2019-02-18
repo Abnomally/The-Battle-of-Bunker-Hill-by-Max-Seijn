@@ -88,7 +88,7 @@ Breed’s hill: a hill on the Charlestown Peninsula that was the location of the
 Principle: a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of 
 reasoning.
 
-
+Redoubt: a defensive fortification that is outside the main defensive line. it is meant to protect soldiers that are outside the main line. Most are earthwork and wood, but some can be stone or more resitant materials. 
 
 
 #### Works Cited
