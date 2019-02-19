@@ -2,7 +2,7 @@
    By Max seijn
      
 
-The Battle of Bunker Hill took place on June 17th, 1775. It was a battle between Great Britain and the American colonists. It took place in the hills near Charlestown, Massachusetts, which is just across the bay from Boston. The battle was a victory for the British in terms of territory gained, but a bloody one. They lost over 1,000 men, more than double the number of American casualties. For the Americans, it was a major morale-boosting win. Even though they lost their position, it proved to them that the British were not, in fact, invincible and could be defeated.
+The Battle of Bunker Hill took place on June 17th, 1775. It was a battle between Great Britain and the American colonists. It took place in the hills near Charlestown, Massachusetts, which is just across the bay from Boston. The battle was a victory for the British in terms of territory gained, but a bloody one. They lost over 1,000 men, more than double the number of American casualties. For the Americans, it was a major morale-boosting win. Even though they lost their position, it proved to them that the British were not in fact, invincible and could be defeated.
 
  
 ###### Table of contents
@@ -33,7 +33,7 @@ The Battle of Bunker Hill took place on June 17th, 1775. It was a battle between
 Colonist forces arrived at Breed’s Hill and began quietly fortifying through night in anticipation of a British attack. 
 5.	On the morning of June 17th, 1775, British infantry troops saw the American fortifications and began an assault on Breed’s Hill. 
 6.	Many British soldiers were killed in the initial attacks up Breed’s Hill, as the Americans had a superior position and cover. All the British assaults were focused on the redoubt on the hill, which was heavily fortified and full of colonists with guns. Due to their cover, the Americans were able to fire much more accurately, killing many British regulars. Many British soldiers were killed as they advanced up the hill. But, after two unsuccessful waves of British assaults, the colonists ran out of ammunition and were forced to retreat off the Charlestown Peninsula to American blockades in the Boston area. Most of the American casualties occurred during this retreat, as it was disordered and panicked, more of a rout than a retreat. The American forces basically ran away as the British fire volley after volley into the militiamen, who had no way to fight back or resist as they had no ammunition. 
-7.	The British took control of Breed’s Hill and Bunker Hill and brought cannons up the hills to retain control of the Boston Harbor as well as to shell American positions around Boston. 
+7.	The British took control of Breed’s Hill and Bunker Hill and brought cannons up the hills to retain control of the Boston Harbor as well as to shell Colonist positions around Boston. 
 
 ![2 15 19 ela project timeline](https://user-images.githubusercontent.com/47544167/52831606-3942ea80-30a3-11e9-8441-1fcddb3bd966.png)
 
@@ -88,7 +88,7 @@ Breed’s hill: a hill on the Charlestown Peninsula that was the location of the
 Principle: a fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of 
 reasoning.
 
-Redoubt: a defensive fortification that is outside the main defensive line. it is meant to protect soldiers that are outside the main line. Most are earthwork and wood, but some can be stone or more resitant materials. 
+Redoubt: a defensive fortification that is outside the main defensive line. it is meant to protect soldiers that are outside the main line. They are usually cobbled togther from whatever materials are present. Most are earthwork and wood, but some can be stone or more resitant materials. 
 
 
 #### Works Cited
